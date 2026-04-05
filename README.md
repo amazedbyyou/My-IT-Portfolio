@@ -6,6 +6,9 @@ Turned a scratched, low-end laptop into a backup NAS. I discarded the original p
 ![After](https://github.com/user-attachments/assets/8c63a48e-4029-45b1-892d-49e3d6181d9f)
 <img width="2467" height="1255" alt="FNOS" src="https://github.com/user-attachments/assets/f125ab1e-df6b-4f46-91f6-fd964f0a64f2" />
 
+
+
+
 1. Switch upgrade
 Bought a 4 port 2.5GbE switch with metal finishes from Netcore for only about 16 USD. Although my router, formerly also being a switch, can only handle GbE traffic, it should be fine until my ISP provides decent pricing for multi-GbE internet. 
 Drew a simple topology to compare the state of before and after. Quite satisfying to see my read speed finally reaching over 200MB/s not only on my PC but also on mobile devices. Since my AP is also 2.5GbE ready with 2400Mbps transfer available.
