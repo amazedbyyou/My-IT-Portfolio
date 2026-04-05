@@ -1,6 +1,14 @@
 # My-IT-Portfolio
 
 
+
+
+
+
+
+4.  Drew up a quick chart of my NAS storage structure to show the current tiering setup I'm using. While UNRAID's FUSE file system is reliable, I still prefer creating direct network shares at every storage level: RAM, SSDs, and HDDs. One of the biggest selling points of UNRAID for me is its drive-saving mechanism. Keeping the mechanical drives spun down for extended periods not only extends their lifespan, but also saves a few bucks on the power bill. By tiering the storage more thoroughly, I can also significantly reduce the wear on my SSD cache.
+<img width="3207" height="4096" alt="UNRAID Storage structureV2" src="https://github.com/user-attachments/assets/61d4786a-77ae-40ce-9a78-3cbbce623ab4" />
+
 3. Built my own 6-bay NAS with standard PC hardware. The processor is from Intel's low-power lineup, the Celeron N150, paired with 16 Gigs of SO-DIMM RAM. For the motherboard, I chose not to go with a DC-powered board but an ATX 24-pin ITX mobo for better upgradability in the future. For the power supply, I went with a Delta 250W Flex-ATX bronze option. All of these parts were assembled into a compact chassis named UE-S6.Here's a size comparison picture between my self-built NAS and Synology's DS720+. Not that space-consuming considering mine has 4 extra drive bays. Testing Unraid on this system now, and you can see how power-efficient the N150 can be. At 5 Watts during a medium workload, I can finally say goodbye to Synology's J4125 lineup.
 ![Hardware (1)](https://github.com/user-attachments/assets/a6c1e4b3-d0f9-4b2b-949c-56f628ac33b6)
 ![Hardware (2)](https://github.com/user-attachments/assets/9bed13ff-86a7-43c2-a5e7-b19ad12701ea)
