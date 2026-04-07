@@ -25,3 +25,15 @@ Drew a simple topology to compare the state of before and after. Quite satisfyin
 4.  Drew up a quick chart of my NAS storage structure to show the current tiering setup I'm using. While UNRAID's FUSE file system is reliable, I still prefer creating direct network shares at every storage level: RAM, SSDs, and HDDs. One of the biggest selling points of UNRAID for me is its drive-saving mechanism. Keeping the mechanical drives spun down for extended periods not only extends their lifespan, but also saves a few bucks on the power bill. By tiering the storage more thoroughly, I can also significantly reduce the wear on my SSD cache.
 <img width="3207" height="4096" alt="UNRAID Storage structureV2" src="https://github.com/user-attachments/assets/61d4786a-77ae-40ce-9a78-3cbbce623ab4" />
 
+5. Upgraded to an Intel i5 11500T from a Celeron N150. Since this B560 motherboard only includes an onboard GbE NIC, I used the WiFi A+E key PCIe port for a workaround. As you can see in the image, I'm using a WiFi A+E key to Realtek 8125GB 2.5GbE adapter. I utilized the antenna hole to route the cable outside the case. For mounting the RJ45 port, I used Velcro. Working fine so far, huge performance leap for me.
+![IMG_5350](https://github.com/user-attachments/assets/33ed7cfc-c518-47b4-9888-dff4e82fa038)
+![IMG_5352](https://github.com/user-attachments/assets/ecbac4b0-7e7c-4387-b2b1-ae2db8466c5b)
+![IMG_5353](https://github.com/user-attachments/assets/4f1ce458-a40a-411b-af39-4324f11a43c3)
+![IMG_5354](https://github.com/user-attachments/assets/17a26993-8a18-41c1-9e9f-8f79ef7836a7)
+![IMG_5355](https://github.com/user-attachments/assets/f59b5b34-0511-4acf-8bee-d5499e56081d)
+
+
+
+
+
+
