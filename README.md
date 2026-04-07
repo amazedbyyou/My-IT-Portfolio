@@ -32,9 +32,5 @@ Drew a simple topology to compare the state of before and after. Quite satisfyin
 ![IMG_5354](https://github.com/user-attachments/assets/17a26993-8a18-41c1-9e9f-8f79ef7836a7)
 ![IMG_5355](https://github.com/user-attachments/assets/f59b5b34-0511-4acf-8bee-d5499e56081d)
 
-
-
-
-
-
+6. Drew a full topology of my UNRAID. Thanks to its versatility, I can pass through my RX6600 to the VM for Parsec (the BEST remote software IMO) and transcode videos using the UHD750 iGPU in Jellyfin at the same time. I'm also very aware of information security. For personal remote access, I use Tailscale VPN. For public sharing, I'm using the combo of NGINX and Cloudflared. These tools allow me to avoid exposing any ports to the Internet. Security should always be the top concern for any NAS device.
 <img width="4235" height="3302" alt="202604" src="https://github.com/user-attachments/assets/84a707cf-fcb6-46ef-93bd-5f79cf504f60" />
